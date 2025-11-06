@@ -25,7 +25,7 @@ st.set_page_config(
 st.title("🤖 Prototype of a Game Review Sentiment Analysis Tool")
 
 # Media
-st.image("/Users/vladdifka/Downloads/Documents/Skripsi/streamlit-app/Screenshot 2025-11-06 at 15.08.15.png", 
+st.image("Screenshot 2025-11-06 at 15.08.15.png", 
          caption="The focus of this tool is to analyze the review texts, not the games themselves.")
 
 # Text Context
